@@ -1,0 +1,6 @@
+[user]
+	name = John Letey
+	email = johnletey@gmail.com
+	signingkey = 0507637E954C7B45
+[commit]
+	gpgsign = true
