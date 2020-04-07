@@ -1,3 +1,4 @@
+source $HOME/.cargo/env # Rust
 export GOPATH="$(go env GOPATH)" # Go
 export PATH="$PATH:$GOPATH/bin" # Go
 
