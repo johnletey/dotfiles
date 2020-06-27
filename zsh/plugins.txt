@@ -1,4 +1,1 @@
-zsh-users/zsh-autosuggestions branch:develop
-zsh-users/zsh-syntax-highlighting
-mafredri/zsh-async
-sindresorhus/pure
+reobin/typewritten branch:feat/implement-new-layouts
