@@ -1,5 +1,6 @@
 tap "getantibody/tap"
 tap "homebrew/bundle"
 tap "homebrew/core"
+brew "exa"
 brew "yarn"
 brew "getantibody/tap/antibody"
